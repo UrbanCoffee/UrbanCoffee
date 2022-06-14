@@ -1,5 +1,5 @@
 ## Urban Coffee
-Hey, I am a fourth year college undergraduate majoring in Computational Mathematics.
+Hey, I am a graduate from UCR with a Bachelor's in Computational Mathematics.
 
 Take a look around, but there isn't much to see, to be honest.
 
