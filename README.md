@@ -1,7 +1,7 @@
 ## Urban Coffee
-Hey, I am a graduate from UCR with a Bachelor's in Computational Mathematics.
+Hey, I go by the online moniker of Urban. I am an incoming Master's student for Computer Science at UCR. I previous earned a Bachelor's degree in Computational Mathematics there.
 
-Take a look around, but there isn't much to see, to be honest.
+I currently work on a personal blog site of mine called [urbancoffee.io](https://urbancoffee.io).
 
 <!--
 **UrbanCoffee/UrbanCoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
